@@ -1,7 +1,6 @@
 ```markdown
 ### 📁 Project Structure
 
-```plaintext
 spj010/
 `-- local
     |-- README.md
@@ -30,3 +29,4 @@ spj010/
         |
         `-- plans/
             `-- .gitkeep     # (생성된 plan 파일 저장 - Git 무시됨)
+```
