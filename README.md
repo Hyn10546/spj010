@@ -1,5 +1,5 @@
 ```markdown
-### 📁 Project Structure
+📁 spj010 Project Structure
 
 spj010/
 |-- .gitignore           # Git 무시 목록
